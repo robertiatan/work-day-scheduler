@@ -20,4 +20,4 @@
 
 Screenshot of deployed application: ![Work Day Scheduler Screenshot](./Assets/Images/demoss.png)
 
-Link to deployed GitHub URL:
+Link to deployed GitHub URL: https://robertiatan.github.io/work-day-scheduler/
